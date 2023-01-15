@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
+
+body .liquidity-planner-app {
+  font-family: "DM Sans", sans-serif;
+}
+
+/* .liquidity-planner-app .reactgrid .rg-cell:not(.rg-cell-nonEditable):after {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 10px;
+  height: 10px;
+  content: "";
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAbvf3sAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACzSURBVHgBnZCNDcIgEIXLlQEYwU6gbFAmUCdwBTcyjuAEugEmLOAILAD4jsSEJrWnvYSEg+/dz+u6P0MtfXrvTd/3h5TSw1r7WhQwrLW+l1J2SCNEDqKnEuANg0R0VkrtcR9IqMxhINgij+gQaQ7OORuuBuiGHWonvB2ZoTkYx/HcXLmdnzn9DW5y+3GouiTAroVrB/aZF8TnIMGTHSAcJXgiQFwkeFWoEMKIHU6/wLD3+gbQmKMY0ysadgAAAABJRU5ErkJggg==")
+    center;
+  background-size: contain;
+} */
+
+.liquidity-planner-app .disabled {
+  color: #666;
+  background-color: #8181810e;
+}
+
+.liquidity-planner-app .reactgrid-content .rg-pane .rg-cell {
+  padding: 8px 16px;
+  font-size: 12px;
+}
+
+.liquidity-planner-app .padding-left-lg {
+  padding-left: 24px !important;
+}
+
+.liquidity-planner-app .justify-content-center {
+  justify-content: center;
+}
+
+.liquidity-planner-app .justify-content-end {
+  justify-content: flex-end;
+}
+
+.liquidity-planner-app .align-items-end {
+  align-items: flex-end !important;
+}
+
+.liquidity-planner-app .font-bold {
+  font-weight: 600;
+}
+
+.liquidity-planner-app .text-red {
+  color: #cf1322;
+}
+
+.liquidity-planner-app .text-blue {
+  color: #2797ff;
+}
+
+.liquidity-planner-app .text-green {
+  color: #107c41;
+}
+
+.liquidity-planner-app .light-green-bg {
+  background-color: #e7f2ec;
+}
+
+.liquidity-planner-app .text-md {
+  font-size: 14px !important;
+}
+
+.liquidity-planner-app .text-lg {
+  font-size: 16px !important;
+}
+
+.liquidity-planner-app .rg-celleditor {
+  font-size: 12px;
+  padding: 8px 16px;
+  border-width: 1px;
+  box-shadow: 0px 0px 8px #2797ff;
+}
+
+.liquidity-planner-app .rg-celleditor input {
+  font-family: "DM Sans", sans-serif;
+}
+
+.liquidity-planner-app .reactgrid-content .rg-pane .rg-cell-focus {
+  border-color: #2797ff;
+  border-width: 2px;
+}
+
+.liquidity-planner-app .reactgrid-content .rg-pane .rg-cell-focus {
+  border-color: #2797ff;
+  border-width: 2px;
+}
